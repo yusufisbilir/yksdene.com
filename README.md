@@ -1,4 +1,5 @@
 # 🎯 YKS Dene - Ultimate University Entrance Exam Preparation Platform
+[yksdene.com](https://yksdene.com)
 
 **YKS Dene** is a comprehensive web application designed to help students effectively prepare for the **Turkish University Entrance Exam (YKS)**. With powerful tools and intuitive features, students can **track**, **analyze**, and **improve** their performance with ease.
 
